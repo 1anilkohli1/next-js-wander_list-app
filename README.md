@@ -1,6 +1,6 @@
 # Elsewhere
 
-Else is a responsive travel-wishlist app built with Next.js. Collect
+Elsewhere is a responsive travel-wishlist app built with Next.js. Collect
 destinations for later, browse by region, search your list, and save the places
 you want to remember.
 
